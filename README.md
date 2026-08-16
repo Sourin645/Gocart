@@ -7,3 +7,13 @@
 3.Vendor Dashboards: Dedicated dashboards for vendors to manage products, view sales analytics, and track orders.
 
 4.Admin Panel: A comprehensive dashboard for platform administrators to oversee vendors, products, and commissions.
+
+**Tech Stack**
+
+1.Framework: Next.js
+
+2.Styling: Tailwind CSS
+
+3.UI Components: Lucide React for icons
+
+4.State Management: Redux Toolkit
