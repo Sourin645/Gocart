@@ -1,5 +1,3 @@
-# Gocart
-
 **Features**
 
 1.Multi-Vendor Architecture: Allows multiple vendors to register, manage their own products, and sell on a single platform.
