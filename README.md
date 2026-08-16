@@ -17,3 +17,28 @@
 3.UI Components: Lucide React for icons
 
 4.State Management: Redux Toolkit
+
+**Getting Started**
+
+First, install the dependencies. We recommend using npm for this project.
+
+npm install
+
+Then, run the development server:
+
+npm run dev
+
+# or
+yarn dev
+
+# or
+pnpm dev
+
+# or
+bun dev
+
+Open http://localhost:3000 with your browser to see the result.
+
+You can start editing the page by modifying app/(public)/page.js. The page auto-updates as you edit the file.
+
+This project uses next/font to automatically optimize and load Outfit, a new font family for Vercel.
