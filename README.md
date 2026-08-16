@@ -41,4 +41,5 @@ Open http://localhost:3000 with your browser to see the result.
 
 You can start editing the page by modifying app/(public)/page.js. The page auto-updates as you edit the file.
 
-This project uses next/font to automatically optimize and load Outfit, a new font family for Vercel.
+This project uses(https://nextjs.org/docs/app/getting-started/fonts) to automatically optimize and load (https://vercel.com/font), a new 
+font family for Vercel.
